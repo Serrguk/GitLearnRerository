@@ -1,2 +1,3 @@
 public enum SpaceObjects {
+    SUN;
 }
