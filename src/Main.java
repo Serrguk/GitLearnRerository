@@ -13,6 +13,6 @@ public class Main {
         scanner.close();
 
         RelativitySpeeds rs = new RelativitySpeeds();
-        System.out.println("Относительные скорости объектов равны :" + rs.sumSpeed(speed1, speed2) + " км/ч");
+        System.out.println("Относительные скорости объектов равны: " + rs.sumSpeed(speed1, speed2) + " км/ч");
     }
 }
