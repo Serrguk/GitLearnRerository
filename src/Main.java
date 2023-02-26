@@ -6,9 +6,9 @@ public class Main {
         //SPEED_OF_LIGHT = 1_079_252_848.8 kph
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите скорость первого объекта: ");
+        System.out.println("Введите скорость первого объекта в км/ч: ");
         double speed1 = scanner.nextDouble();
-        System.out.println("Введите скорость второго объекта: ");
+        System.out.println("Введите скорость второго объекта в км/ч: ");
         double speed2 = scanner.nextDouble();
         scanner.close();
 
