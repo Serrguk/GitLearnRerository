@@ -4,7 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         //SPEED_OF_LIGHT = 1_079_252_848.8 kph
-        System.out.println("Строка для практики по слиянию веток");
+
+        System.out.println("\n*СЛОЖЕНИЕ СКОРОСТЕЙ С УЧЁТОМ РЕЛЯТИВИСТСКОГО ЭФФЕКТА*\n");
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите скорость первого объекта в км/ч: ");
