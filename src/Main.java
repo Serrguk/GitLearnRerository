@@ -5,7 +5,7 @@ public class Main {
 
         //SPEED_OF_LIGHT = 1_079_252_848.8 kph
 
-        System.out.println("\n*СЛОЖЕНИЕ СКОРОСТЕЙ С УЧЁТОМ РЕЛЯТИВИСТСКОГО ЭФФЕКТА*\n");
+        System.out.println("\n*СЛОЖЕНИЕ РЕЛЯТИВИСТКИХ СКОРОСТЕЙ*\n");
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите скорость первого объекта в км/ч: ");
