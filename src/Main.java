@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        //SPEED_OF_LIGHT = 1_079_252_848.8 kph
+        // SPEED_OF_LIGHT = 1_079_252_848.8 kph
 
         System.out.println("\n*СЛОЖЕНИЕ РЕЛЯТИВИСТКИХ СКОРОСТЕЙ*\n");
 
