@@ -7,8 +7,6 @@ public class Main {
 
         System.out.println("\n*СЛОЖЕНИЕ РЕЛЯТИВИСТКИХ СКОРОСТЕЙ*\n");
 
-        System.out.println("Работа в гит: откат закомиченных изменений");
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите скорость первого объекта в км/ч: ");
         double speed1 = scanner.nextDouble();
